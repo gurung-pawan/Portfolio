@@ -9,6 +9,10 @@ Personal portfolio website built with React, Tailwind CSS, and Framer Motion.
 - **Projects** - showcase of my work
 - **Contact** - get in touch
 
+## Features
+- Animated page transitions with Framer Motion
+- Custom loader on first visit
+
 ## Tech Stack
 
 - React + React Router
